@@ -2,6 +2,7 @@
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambrige: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
+Below a series of questions and recomemended issues that experimental researchers in public administration and management may want to address when reporting their experimental studies.
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
