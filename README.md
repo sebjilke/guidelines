@@ -1,13 +1,13 @@
 # Experimental Reporting Guidelines for Experiments in Public Management, a Checklist<sup>1</sup>
 
 
-### 1. tba
+### 1. Hypotheses and theories they are drawn from
 
-### 2. tba
+### 2. Methods
 
-### 3. tba
+### 3. Reluts
 
-### 4. tba
+### 4. Other information
 
 
 ## Footnotes
