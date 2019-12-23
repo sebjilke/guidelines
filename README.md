@@ -22,13 +22,16 @@ v. *Response rate (if applicable)?*
 i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
 
 #### c. Treatments
-i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*
-ii. *Was a control and/or placebo group used?*
+i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*<br/>
+ii. *Was a control and/or placebo group used?*<br/>
 iii. *Which method of treatment delivery was used (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)?*
 
 #### d. Randomization
-i. *Which method and software were used to generate the randomization sequence?*
-ii. *
+i. *Which method and software were used to generate the randomization sequence?*<br/>
+ii. *What type of randomization was used (e.g., clustered, blocked assignment)?*<br/>
+iii. *What was the unit of randomization? (individuals, households, organisations)* <br/>
+iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
+v. *Was the allocaton process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation)*
 
 #### e. Outcomes
 i.
