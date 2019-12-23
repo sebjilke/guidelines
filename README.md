@@ -1,8 +1,8 @@
-# Experimental Reporting Guidelines for Experiments in Public Management, a Checklist<sup>1</sup>
+# Experimental Reporting Guidelines for Experiments in Public Management, a Checklist
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambrige: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
-Below a series of questions and recomemended issues that experimental researchers in public administration and management may want to address when reporting their experimental studies.
+Below are a series of questions and recomemended issues that experimental researchers in public administration and management may want to address when reporting their experimental studies.  The checklist is drawn from James, Jilke and Van Ryzin (2017), but synthesizes and extends reporting guidelines for experiments from the social and medical sciences.<sup>1</sup>
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
@@ -31,6 +31,6 @@ i. *Is there a detaield description of treatments? (e.g., provide all materials 
 
 ## Footnotes
 
-<sup>1</sup> Based on Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
+<sup>1</sup> Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
 
 ## References
