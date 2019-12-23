@@ -9,7 +9,17 @@ ii. *What specific hypotheses were tested? (e.g., the causal factor extimated, t
 
 ### 2. Methods
 #### a. Subject recruitment
-i. What was the exact
+i. *What was the exact setting and location of data collecton? (e.g., a laboratory room at a university, online survey)*<br/>
+ii. *Recruitment date(s) (including follow-ups)?*</br>
+iii. *Any eligibility or exclusion criteria for subjects?*</br>
+iv. *How (and by whom) were oarticipants recuited and selected? (e.g., recruitment by researchers,s urvey recruitment firm)*</br>
+v/ *Response rate (if applicable)?*
+
+#### b. Design
+i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
+
+#### c. Treatments
+
 
 ### 3. Results
 
@@ -18,6 +28,6 @@ i. What was the exact
 
 ## Footnotes
 
-<sup>1</sup> based on James, Jilke &amp; Van Ryzin (2017); Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
+<sup>1</sup> Based on James, Jilke &amp; Van Ryzin (2017); Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
 
 ## References
