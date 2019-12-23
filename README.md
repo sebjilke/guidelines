@@ -8,6 +8,8 @@ ii. *What specific hypotheses were tested? (e.g., the causal factor extimated, t
 
 
 ### 2. Methods
+#### a. Subject recruitment
+i. What was the exact
 
 ### 3. Results
 
@@ -16,6 +18,6 @@ ii. *What specific hypotheses were tested? (e.g., the causal factor extimated, t
 
 ## Footnotes
 
-<sup>1</sup> based on James, Jilke &amp; Van Ryzin 2017
+<sup>1</sup> based on James, Jilke &amp; Van Ryzin (2017); Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
 
 ## References
