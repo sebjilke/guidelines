@@ -13,7 +13,7 @@ i. *What was the exact setting and location of data collecton? (e.g., a laborato
 ii. *Recruitment date(s) (including follow-ups)?*</br>
 iii. *Any eligibility or exclusion criteria for subjects?*</br>
 iv. *How (and by whom) were oarticipants recuited and selected? (e.g., recruitment by researchers,s urvey recruitment firm)*</br>
-v/ *Response rate (if applicable)?*
+v. *Response rate (if applicable)?*
 
 #### b. Design
 i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
