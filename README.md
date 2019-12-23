@@ -19,7 +19,7 @@ v. *Response rate (if applicable)?*
 i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
 
 #### c. Treatments
-
+i. *Is there a detaield description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents).
 
 ### 3. Results
 
