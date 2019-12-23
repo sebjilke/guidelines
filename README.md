@@ -22,7 +22,20 @@ v. *Response rate (if applicable)?*
 i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
 
 #### c. Treatments
-i. *Is there a detaield description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents).
+i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*
+ii. *Was a control and/or placebo group used?*
+iii. *Which method of treatment delivery was used (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)?*
+
+#### d. Randomization
+i. *Which method and software were used to generate the randomization sequence?*
+ii. *
+
+#### e. Outcomes
+i.
+
+#### f. Sample size
+i.
+
 
 ### 3. Results
 
