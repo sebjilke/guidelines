@@ -5,8 +5,8 @@
 #### a. Specific objectives and hypotheses
 ##### i. What questions was the experiment designed to address?
 ##### i. What specific hypotheses were tested? (e.g., the causal factor extimated, the expected sign and magnitude of expect effects on outcomes, and whther expected effects are expected to be homogenous or to var by subgroups.)
-//
-/
+
+  
 
 ### 2. Methods
 
