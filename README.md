@@ -13,22 +13,22 @@ ii. *What specific hypotheses were tested? (e.g., the causal factor extimated, t
 ### 2. Methods
 #### a. Subject recruitment
 i. *What was the exact setting and location of data collecton? (e.g., a laboratory room at a university, online survey)*<br/>
-ii. *Recruitment date(s) (including follow-ups)?*</br>
+ii. *Recruitment date(s)? (including follow-ups)*</br>
 iii. *Any eligibility or exclusion criteria for subjects?*</br>
 iv. *How (and by whom) were oarticipants recuited and selected? (e.g., recruitment by researchers,s urvey recruitment firm)*</br>
 v. *Response rate (if applicable)?*
 
 #### b. Design
-i. *Specific experiemntal design (e.g., parallel, factorial, conjoint, within or between subjects)?*
+i. *Specific experiemntal design? (e.g., parallel, factorial, conjoint, within or between subjects)*
 
 #### c. Treatments
 i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*<br/>
 ii. *Was a control and/or placebo group used?*<br/>
-iii. *Which method of treatment delivery was used (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)?*
+iii. *Which method of treatment delivery was used? (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)*
 
 #### d. Randomization
 i. *Which method and software were used to generate the randomization sequence?*<br/>
-ii. *What type of randomization was used (e.g., clustered, blocked assignment)?*<br/>
+ii. *What type of randomization was used? (e.g., clustered, blocked assignment)*<br/>
 iii. *What was the unit of randomization? (individuals, households, organisations)* <br/>
 iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
 v. *Was the allocaton process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation)*
