@@ -2,9 +2,12 @@
 
 
 ### 1. Hypotheses and theories they are drawn from
-a. Specific objectives and hypotehses
+a. Specific objectives and hypotheses
+
 i. What
+
 i. What
+
 
 ### 2. Methods
 
