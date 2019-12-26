@@ -34,12 +34,12 @@ iv. *Were participants, those administering the manipulations, and those assessi
 v. *Was the allocaton process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation)*
 
 #### e. Outcomes
-i. *What were all the compiled outcome measures?*
-ii. *Is a full questionnaire provided in the appendix for outcomes measured by a survey (if applicable)?*
+i. *What were all the compiled outcome measures?*<br/>
+ii. *Is a full questionnaire provided in the appendix for outcomes measured by a survey (if applicable)?*<br/>
 iii. *How and when were outcome measures collected?*
 
 #### f. Sample size
-i. *How was the sample size of the experiment determined?*
+i. *How was the sample size of the experiment determined?*<br/>
 ii. *Have any stopping guidelines been used for the recrtuiment of subjects?*
 
 
@@ -51,17 +51,17 @@ i. *Is there a CONSORT participnat flow diagram? (This diagram sets out the samp
 i. *Does discussion of the results state clearly which of the outcome measures and subgroup analyses (if any) were determined prior to the conduct of the experiment and which are the result of exploratory analysis?*
 
 #### c. Statistical analysis
-i. *Is there a report of sample means and standard deviations (or proportions) of all experimental conditions for intention-to-treat analysis (the entire collection of subjects, whether or not the treatment was succesfully delivered to them) prior to any further analysis?*
-ii. *Is there any attrition? If yes, is there a discussion of reason(s) and examination if attrition is conditioned on treatment?*
-iii. *Any other missing data?*
-iv. *Any weighting procedures used?*
+i. *Is there a report of sample means and standard deviations (or proportions) of all experimental conditions for intention-to-treat analysis (the entire collection of subjects, whether or not the treatment was succesfully delivered to them) prior to any further analysis?*<br/>
+ii. *Is there any attrition? If yes, is there a discussion of reason(s) and examination if attrition is conditioned on treatment?*<br/>
+iii. *Any other missing data?*<br/>
+iv. *Any weighting procedures used?*<br/>
 v. *Is any other statistical analysis of the data explained and justified?*
 
 
 ### 4. Other information
-i. *Was the experiment reviewed and approved by an institutional rview bard/ethics committee?*
-ii. *Was an experimental protocol registered prior to the conduct of the study? If yes, where can the preregistration be accessed?*
-iii. *Did the design/ analysis of the experiment deviate from the pregistration protocol (if applicable)? If yes, why?*
+i. *Was the experiment reviewed and approved by an institutional rview bard/ethics committee?*<br/>
+ii. *Was an experimental protocol registered prior to the conduct of the study? If yes, where can the preregistration be accessed?*<br/>
+iii. *Did the design/ analysis of the experiment deviate from the pregistration protocol (if applicable)? If yes, why?*<br/>
 iv. *If a replication dataset (and/or code) is available, is it availabe publicly? (e.g., provide a URL)
 
 
