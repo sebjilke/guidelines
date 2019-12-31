@@ -2,7 +2,7 @@
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
-Below are a series of questions and recommended issues that experimental researchers in public administration and management may want to address when reporting their experimental studies.  The checklist is based on James, Jilke and Van Ryzin (2017), but synthesizes and extends reporting guidelines for experiments from the social and medical sciences.<sup>1</sup>
+Below are a series of questions and recommended issues that experimental researchers in public administration and management should address when reporting their experimental studies.  The checklist is based on James, Jilke and Van Ryzin (2017), but synthesizes and extends reporting guidelines for experiments from the social and medical sciences.<sup>1</sup>
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
