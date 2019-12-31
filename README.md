@@ -45,7 +45,7 @@ ii. *Have any stopping guidelines been used for the recruitment of subjects?*
 
 ### 3. Results
 #### a. Participant flow
-i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes, a diagram in the published paper, these details should be provided elsewhere,)
+i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes, a diagram in the published paper, these details should be provided elsewhere.)
 
 #### b. Confirmatory of exploratory?
 i. *Does discussion of the results state clearly which of the outcome measures and subgroup analyses (if any) were determined prior to the conduct of the experiment and which are the result of exploratory analysis?*
