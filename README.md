@@ -45,7 +45,7 @@ ii. *Have any stopping guidelines been used for the recruitment of subjects?*
 
 ### 3. Results
 #### a. Participant flow
-i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes, a diagram in the published paper, these details should be provided elsewhere.)
+i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes, a diagram in the published paper, these details should be provided elsewhere.)*
 
 #### b. Confirmatory of exploratory?
 i. *Does discussion of the results state clearly which of the outcome measures and subgroup analyses (if any) were determined prior to the conduct of the experiment and which are the result of exploratory analysis?*
@@ -62,12 +62,17 @@ v. *Is any other statistical analysis of the data explained and justified?*
 i. *Was the experiment reviewed and approved by an institutional review bard/ethics committee?*<br/>
 ii. *Was an experimental protocol registered prior to the conduct of the study? If yes, where can the preregistration be accessed?*<br/>
 iii. *Did the design/ analysis of the experiment deviate from the preregistration protocol (if applicable)? If yes, why?*<br/>
-iv. *If a replication dataset (and/or code) is available, is it available publicly? (e.g., provide a URL)
+iv. *If a replication dataset (and/or code) is available, is it available publicly? (e.g., provide a URL)*
 
 
 ## Footnotes
-<sup>1</sup> Boutron, John &amp; Togerson (2010); Altman &amp; Moher (2010); Gerber et al. (2014).
+<sup>1</sup> Boutron, John &amp; Togerson (2010); Schulz, Altman &amp; Moher (2010); Gerber et al. (2014).
 
 
 ## References
-tba
+Boutron, I., John, P. &amp; Togerson, D.J. 2010. 'Reporting methodological items in randomized experiments', *The Annals of the American Academy of Political and Social Science*, 628(1), pp. 112-31.
+
+Gerber, A., Arceneux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., Biggers, S. &amp; Henry, D. 2014. 'Reporting guidelines for experimental research: A report from the Experimental Research Section Standards Committee', *Journal of Experimental Political Science*, 1(1), pp. 81-98.
+
+Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
+
