@@ -72,7 +72,6 @@ iv. *If a replication dataset (and/or code) is available, is it available public
 ## References
 Boutron, I., John, P. &amp; Togerson, D.J. 2010. 'Reporting methodological items in randomized experiments', *The Annals of the American Academy of Political and Social Science*, 628(1), pp. 112-31.
 
-Gerber, A., Arceneux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., Biggers, S. &amp; Henry, D. 2014. 'Reporting guidelines for experimental research: A report from the Experimental Research Section Standards Committee', *Journal of Experimental Political Science*, 1(1), pp. 81-98.
+Gerber, A., Arceneaux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., Biggers, S. &amp; Henry, D. 2014. 'Reporting guidelines for experimental research: A report from the Experimental Research Section Standards Committee', *Journal of Experimental Political Science*, 1(1), pp. 81-98.
 
-Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
-
+Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: Updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
