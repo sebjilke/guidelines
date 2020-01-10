@@ -75,3 +75,6 @@ Boutron, I., John, P. &amp; Togerson, D.J. 2010. 'Reporting methodological items
 Gerber, A., Arceneaux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., Biggers, S. &amp; Henry, D. 2014. 'Reporting guidelines for experimental research: A report from the Experimental Research Section Standards Committee', *Journal of Experimental Political Science*, 1(1), pp. 81-98.
 
 Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: Updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
+
+## Versioning
+Last change: 1/9/2020
