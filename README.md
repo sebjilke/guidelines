@@ -2,7 +2,7 @@
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
-Below are a series of questions and recommended issues that experimental researchers in public administration and management should address when reporting their experimental studies.  The checklist is based on James, Jilke and Van Ryzin (2017), but synthesizes and extends reporting guidelines for experiments from the social and medical sciences.<sup>1</sup>
+Below are a series of questions about issues that researchers using experiments in public administration and management should address when reporting their experimental studies and their findings.  The checklist is based on the core set of issues in James, Jilke and Van Ryzin (2017) guidance that synthesizes and adapts reporting guidelines for experiments from the social and medical sciences to public administration and management.<sup>1</sup>
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
@@ -24,14 +24,17 @@ i. *Specific experimental design? (e.g., parallel, factorial, conjoint, within o
 #### c. Treatments
 i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*<br/>
 ii. *Was a control and/or placebo group used?*<br/>
-iii. *Which method of treatment delivery was used? (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)*
+iii. *Was deception used in treatments?*<br/> 
+iv. *Was the experiment incentivized for participants using monetary or other rewards?*<br/>
+v. *Which method of treatment delivery was used? (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)*<br/>
+vi. *Were treatments implemented as planned, what were the differences from the plan?
 
 #### d. Randomization
 i. *Which method and software were used to generate the randomization sequence?*<br/>
 ii. *What type of randomization was used? (e.g., clustered, blocked assignment)*<br/>
 iii. *What was the unit of randomization? (individuals, households, organisations)* <br/>
 iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
-v. *Was the allocation process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation)*
+v. *Was the allocation process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation, report a table with means and standard deviations of variables to show imbalances)*
 
 #### e. Outcomes
 i. *What were all the compiled outcome measures?*<br/>
@@ -59,9 +62,9 @@ v. *Is any other statistical analysis of the data explained and justified?*
 
 
 ### 4. Other information
-i. *Was the experiment reviewed and approved by an institutional review bard/ethics committee?*<br/>
-ii. *Was an experimental protocol registered prior to the conduct of the study? If yes, where can the preregistration be accessed?*<br/>
-iii. *Did the design/ analysis of the experiment deviate from the preregistration protocol (if applicable)? If yes, why?*<br/>
+i. *Was the experiment reviewed and approved by an institutional review bard, ethics committee or other similar structure?*<br/>
+ii. *Was an experimental protocol for the design of the experiment and analysis of the data registered prior to the conduct of the study? If yes, where can the preregistration be accessed?*<br/>
+iii. *Did the design or analysis of the experiment deviate from the preregistration protocol (if applicable)? If yes, in what elements and why?*<br/>
 iv. *If a replication dataset (and/or code) is available, is it available publicly? (e.g., provide a URL)*
 
 
