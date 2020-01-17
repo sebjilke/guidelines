@@ -2,24 +2,24 @@
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
-Below are a series of questions about issues that researchers using experiments in public administration and management should address when reporting their experimental studies and their findings.  The checklist is based on the core set of issues in [James, Jilke and Van Ryzin (2017)](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) guidance that synthesizes and adapts reporting guidelines for experiments from the social and medical sciences to public administration and management.<sup>1</sup>
+Below is a checklist of important questions that researchers using experiments in public administration and management should consider when reporting their experimental studies and findings.  The checklist is based on the core set of issues in [James, Jilke and Van Ryzin (2017)](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) guidance that synthesizes and adapts reporting guidelines for experiments from the social and medical sciences to public administration and management.<sup>1</sup>
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
 i. *What questions was the experiment designed to address?*<br/>
-ii. *What specific hypotheses were tested? (e.g., the causal factor estimated, the expected sign and magnitude of expect effects on outcomes, and whether expected effects are expected to be homogenous or to vary by subgroups)*
+ii. *What specific hypotheses were tested? (e.g., the causal factor estimated, the expected sign and magnitude of expected effects on outcomes, and whether expected effects are expected to be homogenous or to vary by subgroups)*
 
 
 ### 2. Methods
 #### a. Subject recruitment
 i. *What was the exact setting and location of data collection? (e.g., a laboratory room at a university, online survey)*<br/>
 ii. *Recruitment date(s)? (including follow-ups)*</br>
-iii. *Any eligibility or exclusion criteria for subjects?*</br>
-iv. *How (and by whom) were participants recruited and selected? (e.g., recruitment by researchers, survey recruitment firm)*</br>
-v. *Response rate? (if applicable)*
+iii. *Any eligibility or exclusion criteria for participants?*</br>
+iv. *How were participants recruited and selected, and who did the recruiting? (e.g., recruitment by researchers, survey recruitment firm)*</br>
+v. *What was the response rate? (if applicable)*
 
 #### b. Design
-i. *Specific experimental design? (e.g., parallel, factorial, conjoint, within or between subjects)*
+i. *What type of experimental design was used? (e.g., parallel, factorial, conjoint, within or between subjects)*
 
 #### c. Treatments
 i. *Is there a detailed description of treatments? (e.g., provide all materials in main text or an appendix or supporting documents.)*<br/>
@@ -31,18 +31,18 @@ vi. *Were treatments implemented as planned, what (if any) were the differences 
 
 #### d. Randomization
 i. *Which method and software were used to generate the randomization sequence?*<br/>
-ii. *What type of randomization was used? (e.g., clustered, blocked assignment)*<br/>
-iii. *What was the unit of randomization? (individuals, households, organisations)* <br/>
+ii. *What type of randomization was used? (e.g., simple, clustered, blocked, etc.)*<br/>
+iii. *What was the unit of randomization? (individuals, households, organisations, districts, etc.)* <br/>
 iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
-v. *Was the allocation process followed correctly? (e.g., substantial imbalances of characteristics of across groups can play a role in revealing failures of implementation, report a table with means and standard deviations of variables to show imbalances)*
+v. *Was the randomization process followed correctly? (e.g., to check for possible problems with the randomization, report a table comparing the balance of key characteristics across treatment groups)*
 
 #### e. Outcomes
-i. *What were all the compiled outcome measures?*<br/>
+i. *What were the outcome measures (e.g, be sure to report all outcome measures, not just selected measures)?*<br/>
 ii. *Is a full questionnaire provided in the appendix for outcomes measured by a survey (if applicable)?*<br/>
-iii. *How and when were outcome measures collected?*
+iii. *How and when were outcome measures collected? (e.g., report how long afer the treatment the outcomes were assessed)*
 
 #### f. Sample size
-i. *How was the sample size of the experiment determined?*<br/>
+i. *How was the sample size of the experiment determined? (e.g., report any a priori power calculations)*<br/>
 ii. *Have any stopping guidelines been used for the recruitment of subjects?*
 
 
@@ -55,7 +55,7 @@ i. *Does discussion of the results state clearly which of the outcome measures a
 
 #### c. Statistical analysis
 i. *Is there a report of sample means and standard deviations (or proportions) of all experimental conditions for intention-to-treat analysis (the entire collection of subjects, whether or not the treatment was successfully delivered to them) prior to any further analysis?*<br/>
-ii. *Is there any attrition? If yes, is there a discussion of reason(s) and examination if attrition is conditioned on treatment?*<br/>
+ii. *Was there any attrition? If yes, is there a discussion of reason(s) and examination if attrition is conditioned on treatment?*<br/>
 iii. *Any other missing data?*<br/>
 iv. *Any weighting procedures used?*<br/>
 v. *Is any other statistical analysis of the data explained and justified?*
