@@ -34,7 +34,7 @@ i. *Which method and software were used to generate the randomization sequence?*
 ii. *What type of randomization was used? (e.g., simple, clustered, blocked, etc.)*<br/>
 iii. *What was the unit of randomization? (individuals, households, organisations, districts, etc.)* <br/>
 iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
-v. *Was the randomization process followed correctly? (e.g., to check for possible problems with the randomization, report a table comparing the balance of key characteristics across treatment groups)*
+v. *Was the randomization process followed correctly? (e.g., check the balance of key characteristics across treatment groups)*
 
 #### e. Outcomes
 i. *What were the outcome measures (e.g, be sure to report all outcome measures, not just selected measures)?*<br/>
