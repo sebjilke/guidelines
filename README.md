@@ -2,12 +2,12 @@
 
 >[James, O., Jilke, S. &amp; G. Van Ryzin. 2017. *Experiments in Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) (pages 509-511).
 
-Below are a series of questions about issues that researchers using experiments in public administration and management should address when reporting their experimental studies and their findings.  The checklist is based on the core set of issues in James, Jilke and Van Ryzin (2017) guidance that synthesizes and adapts reporting guidelines for experiments from the social and medical sciences to public administration and management.<sup>1</sup>
+Below are a series of questions about issues that researchers using experiments in public administration and management should address when reporting their experimental studies and their findings.  The checklist is based on the core set of issues in [James, Jilke and Van Ryzin (2017)](https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC) guidance that synthesizes and adapts reporting guidelines for experiments from the social and medical sciences to public administration and management.<sup>1</sup>
 
 ### 1. Hypotheses and theories they are drawn from
 #### a. Specific objectives and hypotheses
 i. *What questions was the experiment designed to address?*<br/>
-ii. *What specific hypotheses were tested? (e.g., the causal factor estimated, the expected sign and magnitude of expect effects on outcomes, and whether expected effects are expected to be homogenous or to vary by subgroups.)*
+ii. *What specific hypotheses were tested? (e.g., the causal factor estimated, the expected sign and magnitude of expect effects on outcomes, and whether expected effects are expected to be homogenous or to vary by subgroups)*
 
 
 ### 2. Methods
@@ -16,7 +16,7 @@ i. *What was the exact setting and location of data collection? (e.g., a laborat
 ii. *Recruitment date(s)? (including follow-ups)*</br>
 iii. *Any eligibility or exclusion criteria for subjects?*</br>
 iv. *How (and by whom) were participants recruited and selected? (e.g., recruitment by researchers, survey recruitment firm)*</br>
-v. *Response rate (if applicable)?*
+v. *Response rate? (if applicable)*
 
 #### b. Design
 i. *Specific experimental design? (e.g., parallel, factorial, conjoint, within or between subjects)*
@@ -27,7 +27,7 @@ ii. *Was a control and/or placebo group used?*<br/>
 iii. *Was deception used in treatments?*<br/> 
 iv. *Was the experiment incentivized for participants using monetary or other rewards?*<br/>
 v. *Which method of treatment delivery was used? (e.g., pen-and-paper, computer, smartphone, face-to-face, telephone)*<br/>
-vi. *Were treatments implemented as planned, what were the differences from the plan?
+vi. *Were treatments implemented as planned, what (if any) were the differences from the plan?*
 
 #### d. Randomization
 i. *Which method and software were used to generate the randomization sequence?*<br/>
@@ -48,7 +48,7 @@ ii. *Have any stopping guidelines been used for the recruitment of subjects?*
 
 ### 3. Results
 #### a. Participant flow
-i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes, a diagram in the published paper, these details should be provided elsewhere.)*
+i. *Is there a CONSORT participant flow diagram? (This diagram sets out the sampling of experimental participants, the allocation and delivery of treatment, and any attrition; if space precludes a diagram in the published paper, these details should be provided elsewhere.)*
 
 #### b. Confirmatory of exploratory
 i. *Does discussion of the results state clearly which of the outcome measures and subgroup analyses (if any) were determined prior to the conduct of the experiment and which are the result of exploratory analysis?*
