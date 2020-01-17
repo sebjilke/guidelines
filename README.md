@@ -34,7 +34,7 @@ i. *Which method and software were used to generate the randomization sequence?*
 ii. *What type of randomization was used? (e.g., simple, clustered, blocked, etc.)*<br/>
 iii. *What was the unit of randomization? (individuals, households, organisations, districts, etc.)* <br/>
 iv. *Were participants, those administering the manipulations, and those assessing the outcomes unaware of condition assignment (i.e., blinding)?*<br/>
-v. *Was the randomization process followed correctly? (e.g., check the balance of key characteristics across treatment groups)*
+v. *Was the randomization process followed correctly? (e.g., check for imbalance of key characteristics across treatment groups)*
 
 #### e. Outcomes
 i. *What were the outcome measures (e.g, be sure to report all outcome measures, not just selected measures)?*<br/>
@@ -80,4 +80,4 @@ Gerber, A., Arceneaux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., B
 Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: Updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
 
 ## Versioning
-Last change: 01/16/2020
+Last change: 01/17/2020
