@@ -80,4 +80,4 @@ Gerber, A., Arceneaux, K., Boudreau, C, Dowling, C, Hillygus, S., Palfrey, T., B
 Schulz, K.F., Altman, D.G. &amp; Mover, D. 2010. 'CONSORT 2010 Statement: Updated guidelines for reporting parallel group randomised trials', *British Medical Journal*, 340: c332.
 
 ## Versioning
-Last change: 1/16/2020
+Last change: 01/16/2020
